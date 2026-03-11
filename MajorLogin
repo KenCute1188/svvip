@@ -1,0 +1,11 @@
+HTTP/1.1 400 Bad Request
+Content-Type: text/plain
+
+[c][00ffff]SERVER DELTAMMO OPEN
+[c][00ffff]ĐƯỢC PHÁT TRIỂN BỞI DELTAMMO
+[c]--------------------------------
+[c][ff0000]PHÁT HIỆN SỬ DỤNG PROXY KHÔNG HỢP LỆ
+[c][ffffff]Vui lòng TẮT PROXY trong cài đặt wifi
+[c][ffffff]sau đó vào lại game.
+[c]--------------------------------
+[c][00a2ff]Support: Zalo: 0589.020.171
